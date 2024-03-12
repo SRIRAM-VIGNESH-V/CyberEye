@@ -78,6 +78,8 @@ In this category, 4 features are extracted.
 
 16. **Website Forwarding (Web_Forwards):**
     - Checks the number of forwardings on the website.
-    - 1 (phishing) if the number of forwardings is greater than 2, 0 (legitimate) otherwise.<br> All the above mentioned features have been extracted using the FeatureExtraction.py in the git-repository.
+    - 1 (phishing) if the number of forwardings is greater than 2, 0 (legitimate) otherwise.
+
+<br> All the above mentioned features have been extracted using the FeatureExtraction.py in the git-repository.
 
 
