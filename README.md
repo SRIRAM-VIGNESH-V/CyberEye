@@ -1,6 +1,6 @@
 # cyberEye
 
-**A supervised cybersecurity ML model capable of detecting whether a website is legitimate or a phishing website using the XGBoost classifier. The model employs Python 3.x for feature extraction.**
+A supervised cybersecurity ML model capable of detecting whether a website is legitimate or a phishing website using the XGBoost classifier. The model employs Python 3.x for feature extraction.
 
 ## Dataset
 The set of phishing URLs is collected from the open-source service called PhishTank. Legitimate URLs are obtained from the open datasets of the University of New Brunswick.
