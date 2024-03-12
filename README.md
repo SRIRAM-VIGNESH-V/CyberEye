@@ -80,5 +80,4 @@ In this category, 4 features are extracted.
     - Checks the number of forwardings on the website.
     - 1 (phishing) if the number of forwardings is greater than 2, 0 (legitimate) otherwise.
 
-These features collectively contribute to the detection of phishing websites using the cyberEye model.
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
