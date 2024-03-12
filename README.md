@@ -81,5 +81,14 @@ In this category, 4 features are extracted.
     - 1 (phishing) if the number of forwardings is greater than 2, 0 (legitimate) otherwise.
 
 <br> All the above mentioned features have been extracted using the FeatureExtraction.py in the git-repository.
+So, all together 16 features are extracted from the 10,000 URL dataset and are stored in 'urldata.csv' file.
+
+## Model Training
+The input URL is classified as phishing (1) or legitimate (0). The supervised machine learning model (classification) considered to train the dataset in this project is XGBoost classifier (Extreme Gradient Boost).
+
+## Results
+The XGBoost model gave 86.64% accuracy and is attached with the repository as XGBoostClassifier.pickle.dat file.
+## License
+This project is current under MIT license.
 
 
